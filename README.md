@@ -47,19 +47,7 @@ To uncover trends related to employee attrition, salary gaps, promotions, and de
 - `WINDOW FUNCTIONS`: `RANK()`, `PERCENT_RANK()`, `DENSE_RANK()`
 - Aggregations, subqueries
 
----
 
-## 📎 Certificate
-
-![SQL Certificate](./Certificate/SQL_Certificate_Simplilearn.pdf)
-
----
-
-## 🖼️ Snapshots
-
-| Attrition by Age Group | Salary Comparison | Income Ranking |
-|------------------------|-------------------|----------------|
-| ![](./screenshots/attrition_by_age_group.png) | ![](./screenshots/department_avg_salary.png) | ![](./screenshots/income_ranking_window_function.png) |
 
 ---
 
@@ -69,17 +57,12 @@ To uncover trends related to employee attrition, salary gaps, promotions, and de
 |---------------------------|----------------------------------------|
 | `01_data_exploration.sql` | Explore structure + nulls              |
 | `02_attrition_analysis.sql`| Attrition by age, department, gender   |
-| `03_promotions_analysis.sql`| Correlation with years since promotion |
-| `04_salary_by_department.sql`| Compare salaries vs department avg     |
+| `03_salary_analysis.sql`| Correlation with years since promotion |
+| `04_promotions_analysis.sql`| Compare salaries vs department avg     |
 | `05_window_functions.sql`| Rank employees by salary using windows |
 
 ---
 
-## 🧑‍💻 Author
-**Palakk**, aspiring Data Analyst 🚀  
-Certified in SQL by Simplilearn | Built with MySQL Workbench
-
----
 
 ## 📌 Contact
-[LinkedIn](https://www.linkedin.com) • [Email](mailto:yourname@example.com)
+[LinkedIn](https://www.linkedin.com/in/palakk-palakk-154734275/) • [Email](mailto:palakk0310@gmail.com)
